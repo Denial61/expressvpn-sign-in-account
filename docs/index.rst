@@ -6,8 +6,8 @@ How Do I Sign In to My ExpressVPN Account Easily?
    :caption: Contents:
 Learn how to access your ExpressVPN sign in account smoothly, manage your settings, and stay secure with this simple guide.
 
-.. image:: https://img.freepik.com/premium-vector/login-button_592324-17754.jpg
-   :alt: My Project Logo
+.. image:: sign-in.jpg
+   :alt: express VPN sign in Account
    :width: 200px
    :align: center
    :target: https://aclogportal.com/expressvpn-signin
