@@ -8,7 +8,7 @@ Learn how to access your ExpressVPN sign in account smoothly, manage your settin
 
 .. image:: sign-in.jpg
    :alt: express VPN sign in Account
-   :width: 200px
+   :width: 400px
    :align: center
    :target: https://aclogportal.com/expressvpn-signin
 
